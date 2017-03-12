@@ -52,7 +52,7 @@ public class A4Q4 {
         // divide by ticket price($35)
         double answer = (cost / 35);
         answer = Math.ceil(answer);
-                
+
         //output the total cost and the number of tickets tht have to be sold 
         System.out.println(" The cost is " + cost + ". You will need to sell " + answer + " to break even. ");
 

@@ -22,12 +22,13 @@ public class A4Q7 {
 
         //start at 1 
         double sum = 1;
+        //create while loop; number limit 100
         while (sum < 100) {
 
             //player 1: what is the sum 
             System.out.println("Enter the sum of number:");
             double num = input.nextDouble();
-             
+
             // calculations to add the previous number to the sum 
             sum = num + sum;
 

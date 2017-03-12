@@ -44,7 +44,7 @@ public class A4Q6 {
         if (answer < 1) {
             System.out.println("Congratulations, you are within the speedlimit!");
         }
-   
+
     }
 
 }
